@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/LocationAlarm.iml" filepath="$PROJECT_DIR$/LocationAlarm.iml" group="LocationAlarm" />
+      <module fileurl="file://$PROJECT_DIR$/app/LocationAlarm-app.iml" filepath="$PROJECT_DIR$/app/LocationAlarm-app.iml" group="LocationAlarm/app" />
       <module fileurl="file://$PROJECT_DIR$/MyProject.iml" filepath="$PROJECT_DIR$/MyProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
