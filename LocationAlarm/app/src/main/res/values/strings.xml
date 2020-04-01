@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyProject</string>
+    <string name="this_is_awesome">This is awesome</string>
+    <string name="text">Sample code</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="todo">TODO</string>
+    <string name="search_box">Sample</string>
+    <string name="title_activity_contacts">contacts_activity</string>
+    <string name="title_activity_search_results">search_results_activity</string>
+    <string name="search">Search</string>
+    <string name="textview">Textview</string>
+    <string name="map_type_none">None</string>
+    <string name="map_type_normal">Normal</string>
+    <string name="map_type_terrain">Terrain</string>
+    <string name="map_type_satellite">Satellite</string>
+    <string name="map_type_hybrid">Hybrid</string>
+</resources>

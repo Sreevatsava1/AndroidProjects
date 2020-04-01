@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "323502769510",
+    "firebase_url": "https://location-based-alarm-8c902.firebaseio.com",
+    "project_id": "location-based-alarm-8c902",
+    "storage_bucket": "location-based-alarm-8c902.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323502769510:android:f19fde5fc470f6a1",
+        "android_client_info": {
+          "package_name": "com.example.lucky.myproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323502769510-4vgelcp0h7n294oeo4339rq32uj6v0n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx-Zs0JzZFX5lnsqJOds60jo7bNqs_U0A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
